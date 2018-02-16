@@ -29,7 +29,9 @@
     ncurses
     openssh
     osctl
+    osctl-env-exec
     osup
+    rake
     ruby
     screen
     strace
